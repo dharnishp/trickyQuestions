@@ -1,0 +1,24 @@
+Top Tricky Java Programs
+Program 1:
+Write A Java Program Add two numbers without using ‘+’ operator
+
+Program 2:
+Write A Java Program subtract without using ‘-’ operator
+
+Program 3:
+Write A Java Program multiplication without using ‘*’ operator
+
+Program 4:
+Write A Java Program division without using ‘/’ operator
+
+Program 5:
+Write A Java Program modulo division without using ‘%’ operator
+
+Program 6:
+Write A Java Program printing numbers without using loops
+
+Program 7:
+Write A Java Program to check given number is even or odd without Using if else.
+
+Program 8:
+Write A Java Program print a message without using semicolon ‘;’.
